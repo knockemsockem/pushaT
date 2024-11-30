@@ -1,5 +1,3 @@
----
-
 # Git Commit Automator
 
 This script generates backdated Git commits for educational and experimental purposes. It allows you to create commits for the past year (or any specified range of days), which can be useful for populating your GitHub contribution graph.
